@@ -18,6 +18,14 @@ class ViewController: UIViewController {
         // issue1
         
         // issue2
+        
+        // issue3
+        
+        // issue4
+        
+        // issue5
+        
+        // issue6
 
     }
 
