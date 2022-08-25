@@ -24,6 +24,8 @@ class ViewController: UIViewController {
         // issue4
         
         // issue5
+        
+        // issue6
 
     }
 
